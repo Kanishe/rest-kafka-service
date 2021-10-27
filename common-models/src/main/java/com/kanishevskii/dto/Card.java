@@ -6,8 +6,7 @@ import java.util.Map;
 import javax.annotation.Generated;
 
 @Generated("jsonschema2pojo")
-public class Card implements Serializable
-{
+public class Card implements Serializable {
 
     private String type;
     private String number;
